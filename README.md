@@ -1,9 +1,4 @@
-# COMP8677-Networking-and-Data-Security-Final-Project
-
-## Project Description
-Final Project for COMP 8677 (Several Attacks using SEED lab)
-
-## Local DNS Attack and Detection
+# Local DNS Attack and Detection
 
 Steps to Run the Project:
 1. Build and Run the Docker Compose file
